@@ -1,2 +1,2 @@
 # calculadora
-Equipe Alex, Bruna , Glauco
+Equipe Alex, Bruna , Glauco, Vitor
